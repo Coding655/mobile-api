@@ -1,0 +1,258 @@
+[
+    {
+      "id" : "001"
+      "price": "$999",
+      "img" : "https://cdn.mobilemaya.com/3h3y.jpg",
+      "brand": "Apple",
+      "battery": "3110mAh",
+      "country": "USA",
+      "model": "iPhone 11",
+      "details": "6.1-inch display, 64GB storage",
+      "processor": "A13 Bionic",
+      "camera": "12MP dual-camera system",
+      "sound": "Stereo speakers",
+      "features": "Face ID, Wireless charging",
+      "performance-details": "Smooth and fast performance, excellent gaming experience"
+    },
+    {
+      "id" : "002"
+      "price": "$799",
+      "brand": "Samsung",
+      "img" : "https://cdn.mobilemaya.com/3cRu.jpg",
+      "battery": "4500mAh",
+      "country": "South Korea",
+      "model": "Galaxy S20",
+      "details": "6.2-inch display, 128GB storage",
+      "processor": "Exynos 990",
+      "camera": "64MP triple-camera system",
+      "sound": "Dolby Atmos",
+      "features": "5G support, Wireless charging",
+      "performance-details": "High-speed performance, great for multitasking"
+    },
+    {
+      "id" : "003"
+      "price": "$699",
+      "brand": "Google",
+      "img" : "https://cdn.mobilemaya.com/3gs6.jpg",
+      "battery": "3700mAh",
+      "country": "USA",
+      "model": "Pixel 5",
+      "details": "6.0-inch display, 128GB storage",
+      "processor": "Snapdragon 765G",
+      "camera": "16MP dual-camera system",
+      "sound": "Stereo speakers",
+      "features": "5G support, Wireless charging",
+      "performance-details": "Efficient and smooth performance, excellent camera quality"
+    },
+    {
+      "id" : "004"
+      "price": "$599",
+      "brand": "OnePlus",
+      "img" : "https://cdn.mobilemaya.com/2g2V.jpg",
+      "battery": "4300mAh",
+      "country": "China",
+      "model": "OnePlus 8",
+      "details": "6.55-inch display, 128GB storage",
+      "processor": "Snapdragon 865",
+      "camera": "48MP triple-camera system",
+      "sound": "Stereo speakers",
+      "features": "5G support, Fast charging",
+      "performance-details": "Fast and fluid performance, great for gaming"
+    },
+    {
+      "id" : "005"
+      "price": "$499",
+      "brand": "Xiaomi",
+      "img" : "https://cdn.mobilemaya.com/3gpY.jpg",
+      "battery": "5020mAh",
+      "country": "China",
+      "model": "Redmi Note 9 Pro",
+      "details": "6.67-inch display, 128GB storage",
+      "processor": "Snapdragon 720G",
+      "camera": "64MP quad-camera system",
+      "sound": "Stereo speakers",
+      "features": "Fast charging, IR blaster",
+      "performance-details": "Smooth performance, excellent battery life"
+    },
+    {
+      "id" : "006"
+      "price": "$399",
+      "brand": "Sony",
+      "img" : "https://cdn.mobilemaya.com/22kx.png",
+      "battery": "4000mAh",
+      "country": "Japan",
+      "model": "Xperia 10 II",
+      "details": "6.0-inch display, 128GB storage",
+      "processor": "Snapdragon 665",
+      "camera": "12MP triple-camera system",
+      "sound": "Stereo speakers",
+      "features": "IP65/68 water resistance, OLED display",
+      "performance-details": "Good performance, excellent display quality"
+    },
+    {
+      "id" : "007"
+      "price": "$899",
+      "brand": "LG",
+      "img" : "https://cdn.mobilemaya.com/18o5.jpg",
+      "battery": "5000mAh",
+      "country": "South Korea",
+      "model": "V60 ThinQ 5G",
+      "details": "6.8-inch display, 128GB storage",
+      "processor": "Snapdragon 865",
+      "camera": "64MP dual-camera system",
+      "sound": "Quad DAC",
+      "features": "5G support, Dual Screen support",
+      "performance-details": "Excellent performance, great audio quality"
+    },
+    {
+      "id" : "008"
+      "price": "$599",
+      "brand": "Nokia",
+      "img" : "https://cdn.mobilemaya.com/3h0K.jpg",
+      "battery": "4500mAh",
+      "country": "Finland",
+      "model": "Nokia 8.3 5G",
+      "details": "6.81-inch display, 128GB storage",
+      "processor": "Snapdragon 765G",
+      "camera": "64MP quad-camera system",
+      "sound": "Stereo speakers",
+      "features": "5G support, PureDisplay",
+      "performance-details": "Good performance, robust build quality"
+    },
+    {
+      "id" : "009"
+      "price": "$299",
+      "brand": "Motorola",
+      "img" : "https://cdn.mobilemaya.com/18qv.jpg",
+      "battery": "5000mAh",
+      "country": "USA",
+      "model": "Moto G Power",
+      "details": "6.4-inch display, 64GB storage",
+      "processor": "Snapdragon 665",
+      "camera": "16MP triple-camera system",
+      "sound": "Stereo speakers",
+      "features": "Fast charging, Water repellent design",
+      "performance-details": "Decent performance, excellent battery life"
+    },
+    {
+      "id" : "010"
+      "price": "$499",
+      "brand": "Asus",
+      "img" : "https://cdn.mobilemaya.com/18sb.jpg",
+      "battery": "6000mAh",
+      "country": "Taiwan",
+      "model": "ROG Phone 3",
+      "details": "6.59-inch display, 128GB storage",
+      "processor": "Snapdragon 865+",
+      "camera": "64MP triple-camera system",
+      "sound": "Stereo speakers",
+      "features": "144Hz display, GameCool 3 cooling system",
+      "performance-details": "Exceptional gaming performance, long battery life"
+    },
+    {
+      "id" : "011"
+      "price": "$549",
+      "brand": "Oppo",
+      "img" : "https://cdn.mobilemaya.com/3YTw.jpg",
+      "battery": "4000mAh",
+      "country": "China",
+      "model": "Oppo Reno4 Pro",
+      "details": "6.5-inch display, 256GB storage",
+      "processor": "Snapdragon 765G",
+      "camera": "48MP quad-camera system",
+      "sound": "Stereo speakers",
+      "features": "SuperVOOC 2.0 fast charging, 90Hz display",
+      "performance-details": "Smooth performance, fast charging"
+    },
+    {
+      "id" : "012"
+      "price": "$299",
+      "brand": "Realme",
+      "img" : "https://cdn.mobilemaya.com/3aq9.jpg",
+      "battery": "5000mAh",
+      "country": "China",
+      "model": "Realme 7",
+      "details": "6.5-inch display, 128GB storage",
+      "processor": "Helio G95",
+      "camera": "64MP quad-camera system",
+      "sound": "Stereo speakers",
+      "features": "30W Dart charge, 90Hz display",
+      "performance-details": "Good performance, excellent battery life"
+    },
+    {
+      "id" : "013"
+      "price": "$449",
+      "brand": "Vivo",
+      "img" : "https://cdn.mobilemaya.com/3hBN.jpg",
+      "battery": "4500mAh",
+      "country": "China",
+      "model": "Vivo V20",
+      "details": "6.44-inch display, 128GB storage",
+      "processor": "Snapdragon 720G",
+      "camera": "64MP triple-camera system",
+      "sound": "Stereo speakers",
+      "features": "33W fast charging, 44MP front camera",
+      "performance-details": "Smooth performance, great camera quality"
+    },
+    {
+      "id" : "014"
+      "price": "$349",
+      "brand": "Lenovo",
+      "img" : "https://cdn.mobilemaya.com/18mb.jpg",
+      "battery": "5000mAh",
+      "country": "China",
+      "model": "Lenovo K12 Pro",
+      "details": "6.8-inch display, 128GB storage",
+      "processor": "Snapdragon 662",
+      "camera": "64MP triple-camera system",
+      "sound": "Stereo speakers",
+      "features": "Fast charging, Fingerprint sensor",
+      "performance-details": "Decent performance, good battery life"
+    },
+    {
+      "id" : "015"
+      "price": "$399",
+      "brand": "ZTE",
+      "img" : "https://cdn.mobilemaya.com/1AJY.jpg",
+      "battery": "4200mAh",
+      "country": "China",
+      "model": "ZTE Axon 11 5G",
+      "details": "6.47-inch display, 128GB storage",
+      "processor": "Snapdragon 765G",
+      "camera": "64MP quad-camera system",
+      "sound": "Stereo speakers",
+      "features": "5G support, Fast charging",
+      "performance-details": "Smooth performance, good camera quality"
+    },
+    {
+      "id" : "016"
+      "price": "$499",
+      "brand": "TCL",
+      "img" : "https://cdn.mobilemaya.com/1AJY.jpg",
+      "battery": "4500mAh",
+      "country": "China",
+      "model": "TCL 10 Pro",
+      "details": "6.47-inch display, 128GB storage",
+      "processor": "Snapdragon 675",
+      "camera": "64MP quad-camera system",
+      "sound": "Stereo speakers",
+      "features": "Fast charging, HDR10 display",
+      "performance-details": "Good performance, excellent display"
+    },
+    {
+      "id" : "017"
+      "price": "$399",
+      "brand": "Alcatel",
+      "img" : "https://cdn.mobilemaya.com/1A3r.jpg",
+      "battery": "4000mAh",
+      "country": "France",
+      "model": "Alcatel 3L",
+      "details": "6.22-inch display, 64GB storage",
+      "processor": "Mediatek Helio P22",
+      "camera": "48MP triple-camera system",
+      "sound": "Stereo speakers",
+      "features": "Fast charging, Face unlock",
+      "performance-details": "Good performance, excellent display"
+    }
+]
+ 
